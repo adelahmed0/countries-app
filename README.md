@@ -80,4 +80,4 @@ Contributions to the project are welcome! If you find any issues or would like t
 
 
 
-Thank you for using the World Countries project! If you have any questions or feedback, feel free to contact us at your-email@example.com. Happy coding!
+Thank you for using the World Countries project! If you have any questions or feedback, feel free to contact us at adel15952@gmail.com. Happy coding!
