@@ -29,13 +29,13 @@ To get started with the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/adelahmed0/countries-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd world-countries-project
+   cd countries-app
    ```
 
 3. Install the dependencies:
