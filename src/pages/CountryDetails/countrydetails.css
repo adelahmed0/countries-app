@@ -1,0 +1,43 @@
+
+.back-button {
+    padding: 0.7rem 3rem;
+}
+
+.country-detail-content h1 {
+    margin-bottom: 2rem;
+}
+
+.country-detail-image {
+    width: 100%;
+}
+
+
+.detail-left p {
+    margin-bottom: 1rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.detail-left span {
+    font-weight: 300;
+    margin-left: 4px;
+    font-size: .9rem;
+}
+
+
+.detail-right p {
+    margin-bottom: 1rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.detail-right span {
+    font-weight: 300;
+    margin-left: 4px;
+    font-size: 1rem;
+}
+
+
+
+
+

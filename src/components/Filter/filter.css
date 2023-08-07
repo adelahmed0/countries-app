@@ -1,0 +1,22 @@
+.filter-container {
+    width: 20%;
+    display: inline-block;
+    position: relative;
+}
+
+.filter {
+    width: 100%;
+    cursor: pointer;
+}
+
+@media (max-width: 850px) {
+    .filter-container {
+        width: 30%;
+        display: inline-block;
+        position: relative;
+    }
+}
+
+
+
+

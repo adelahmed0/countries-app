@@ -1,0 +1,5 @@
+.header {
+    background-color: var(--color-white);
+    padding: 2rem 4rem;
+    box-shadow: 5px 5px 5px #eae3e3;
+}
