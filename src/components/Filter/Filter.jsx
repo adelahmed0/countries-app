@@ -16,6 +16,15 @@ export const Filter = () => {
             dispatch(initial())
         }
     }, [dispatch, filter]);
+
+    useEffect(() => {
+        if (filter === '') return;
+        document.title = `Countries App ${filter}`
+        return () => {
+            document.title = 'Countries App'
+        }
+    }, [filter]);
+
     return (
         <section className="filter-container shadow-lg" onChange={(e) => setFilter(e.target.value)}>
             <select className="filter dark:bg-gray-900 rounded-xl focus:outline-none p-4">

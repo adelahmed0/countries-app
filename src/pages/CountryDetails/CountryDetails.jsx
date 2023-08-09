@@ -24,6 +24,14 @@ export const CountryDetails = () => {
         }
     }, [dispatch, code, error]);
 
+    useEffect(() => {
+        if (!countrySearch || !countrySearch[0]?.name?.common) return;
+        document.title = `Countries App | ${countrySearch[0]?.name?.common}`
+        return () => {
+            document.title = 'Countries App'
+        }
+    }, [countrySearch, code]);
+
     return (
         <section className="country-detail-container pt-10">
             <Link className="back-button bg-white rounded-xl dark:bg-gray-900 hover:border" to="/">
