@@ -1,6 +1,6 @@
 # World Countries Project
 
-Welcome to the World Countries project! This is a web application built using React, React Router, Redux Toolkit, Axios, React Icons, Tailwind CSS, and Vite. The project allows users to explore and filter countries from different continents and search for specific countries. The application is designed to be responsive, ensuring a seamless experience across various screen sizes.
+Welcome to the World Countries project! This is a web application built using React, Redux Toolkit, Axios, React Icons, Tailwind CSS, and Vite with light and dark mode. The project allows users to explore and filter countries from different continents and search for specific countries. The application is designed to be responsive, ensuring a seamless experience across various screen sizes.
 
 ## Table of Contents
 
